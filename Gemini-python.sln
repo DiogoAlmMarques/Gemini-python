@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Gemini-python", "Gemini-python\Gemini-python.pyproj", "{776FD504-FD29-4F74-A41C-86EBDE61D581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776FD504-FD29-4F74-A41C-86EBDE61D581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776FD504-FD29-4F74-A41C-86EBDE61D581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086EDB45-C637-4E5E-81DB-E915869317E3}
+	EndGlobalSection
+EndGlobal
